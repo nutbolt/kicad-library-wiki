@@ -7,7 +7,7 @@
 
 1. Clone your newly created fork. [Read how](https://help.github.com/articles/fetching-a-remote)
 
-1. Do your modifications using a text editor or the library editor. Read **[Kicad Library Convention](https://github.com/KiCad/kicad-library/blob/master/KiCad_Library_Convention.txt)** first.
+1. Do your modifications using a text editor or the library editor. Read **[[Kicad Library Convention]]** first.
 
 1. Commit your changes:
 >     git add -A
