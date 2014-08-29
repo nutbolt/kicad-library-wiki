@@ -1,10 +1,10 @@
 # Kicad Library Convention
 
-Revision 0.5, August 6th 2014  
-Devised by Carl Poirier  
-With help from members of:  
-kicad-lib-committers@lists.launchpad.net  
-kicad-developers@lists.launchpad.net  
+_Revision 0.5, August 6th 2014_  
+_Devised by **Carl Poirier**_  
+_With help from members of:_  
+_kicad-lib-committers@lists.launchpad.net_  
+_kicad-developers@lists.launchpad.net_  
 
 ## General Rules
 
