@@ -3,8 +3,8 @@
 _Revision 0.5, August 6th 2014_  
 _Devised by **Carl Poirier**_  
 _With help from members of:_  
-_kicad-lib-committers@lists.launchpad.net_  
-_kicad-developers@lists.launchpad.net_  
+_[kicad-lib-committers](https://launchpad.net/~kicad-lib-committers)_  
+_[kicad-developers](https://launchpad.net/~kicad-developers)_  
 
 ## General Rules
 
