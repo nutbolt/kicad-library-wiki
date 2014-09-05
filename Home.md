@@ -1,7 +1,13 @@
 # Welcome to the Kicad-Library Repository
 
-Before You start making Your symbols and 3D models which could be finally included in KiCad-Library repository, You have to be familiar with the content of two documents: 
+This repository is separated into three folders.
 
-1. **[[KiCad Library Convention]]** which is a set of rules and guidelines You should take into account when creating Your work.
-1. **[[How To Contribute]]** to know what steps should be taken to properly prepare a **Merge Request**, which will be dealt with by one of the librarians.
+1. **[[library]]** contains the symbols for making schematics.
+1. **[[template]]** contains project templates from where you can start off, as well as the fp-lib-tables, which are a list specifying where to find each footprint library. These are the other repositories ending in ".pretty".
+1. **[[modules]]** includes the 3D drawing of footprints in the subdirectory "packages3d" and the footprint documentation in the subdirectory "footprint_doc".kicad
+
+Before you start making your symbols and 3D models which can included in KiCad-Library repository, you have to be familiar with the content of two documents: 
+
+1. **[[KiCad Library Convention]]** which is a set of rules and guidelines you should take into account when creating Your work.
+1. **[[How To Contribute]]** to know what steps should be taken to properly prepare a **Pull Request**, which will be dealt with by one of the librarians.
 
