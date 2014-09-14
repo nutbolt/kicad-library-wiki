@@ -1,6 +1,6 @@
 # Kicad Library Convention
 
-_Revision 0.5, August 6th 2014_  
+_Revision 0.6, September 14th 2014_  
 _Devised by **Carl Poirier**_  
 _With help from members of:_  
 _[kicad-lib-committers](https://launchpad.net/~kicad-lib-committers)_  
@@ -54,11 +54,12 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 
 1. Follows datasheet recommendation unless intentional variation, for example longer pads for hand soldering.
 1. Pad 1 is on the left first, then at the top, except at the top for PLCC (IPC-7351).
-1. For through-hole components, origin is set on pad 1.
-1. For surface-mount devices, origin is placed in the middle with respect to device lead ends (IPC-7351).
+1. For through-hole components, footprint anchor is set on pad 1.
+1. For surface-mount devices, footprint anchor is placed in the middle with respect to device lead ends (IPC-7351).
 1. Silkscreen is not superposed to pads, its outline is completely visible after board assembly, uses 0.15mm line width and provides a reference mark for pin 1 (IPC-7351).
 1. Cannot be duplicated to match a different pin ordering. This is to be handled in the symbol libraries.
 1. Footprint name must match its filename (.kicad_mod files).
+1. The value and reference designator must be placed on silkscreen.
 
 ### Names for footprints of Surface-Mount Devices (SMD)
 
@@ -71,7 +72,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 ### Names for footprints of common devices, such as resistors, capacitors, etc
 
 1. Name of part, may be shortened for common components. ex: "Cap", "Socket_Strip", etc.
-1. Dimension, which may include at its end the positioning. Ex: "TO-220_Horiz", "1x02_Angled".
+1. Dimension, which may include at its end the positioning. Ex: "5x7mm_Horiz", "1x02_Angled".
 1. Pad distance, in the form of an RM rating.
 1. Any modification to the original footprint, indicated by appending the reason.
 
@@ -105,3 +106,6 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
     Revision 0.5, August 6th 2014
     1. Specified in 6.5 that only the outline must be completely visible after assembly.
     2. Rule 3.8 moved from section 1 since it pertains only to symbols.
+
+    Revision 0.6, September 14th 2014
+    1. Specified in 6.8 that value and reference designators must be placed on silkscreen.
