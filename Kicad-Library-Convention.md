@@ -1,6 +1,6 @@
 # Kicad Library Convention
 
-_Revision 0.6, September 14th 2014_  
+_Revision 0.7, September 18th 2014_  
 _Devised by **Carl Poirier**_  
 _With help from members of:_  
 _[kicad-lib-committers](https://launchpad.net/~kicad-lib-committers)_  
@@ -57,6 +57,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. For through-hole components, footprint anchor is set on pad 1.
 1. For surface-mount devices, footprint anchor is placed in the middle with respect to device lead ends (IPC-7351).
 1. Silkscreen is not superposed to pads, its outline is completely visible after board assembly, uses 0.15mm line width and provides a reference mark for pin 1 (IPC-7351).
+1. Courtyard has a clearance of 0.25mm, except aluminum capacitors at 0.5mm and BGA at 1.0mm, all rounded on a grid of 0.05mm. (IPC-7351)
 1. Cannot be duplicated to match a different pin ordering. This is to be handled in the symbol libraries.
 1. Footprint name must match its filename (.kicad_mod files).
 1. The value and reference designator must be placed on silkscreen.
@@ -109,3 +110,6 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 
     Revision 0.6, September 14th 2014
     1. Specified in 6.8 that value and reference designators must be placed on silkscreen.
+
+    Revision 0.7, September 18th 2014
+    1. Added rule 6.6 for courtyard
