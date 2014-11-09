@@ -38,7 +38,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. Name of symbol, may be shortened for common components or use reference designator of the symbol (IEEE 315-1975). ex: "Conn_4x2", "C", etc.
 1. Manufacturer.
 1. Part number, including extension for specific footprint (JEDEC for common devices, ex: 1N4001).
-1. Any modification to the original symbol, indicated by appending the reason. Ex: different pin ordering: "transistor_PNP_pinswap1".
+1. Any modification to the original symbol, indicated by appending the reason. Ex: different pin ordering: "Transistor_PNP_Pinswap1".
 1. Indication of quantity if symbol is an array. Ex: resistor array: "Resistor_x8".
 
 ## Footprint Libraries
