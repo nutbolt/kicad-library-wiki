@@ -25,7 +25,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 ### General Rules for Symbols
 
 1. Using a 100mil grid, pin ends and origin must lie on grid nodes (IEC-60617).
-1. Pin has a length of 100mil or more in increments of 100mil if number needs more space.
+1. Pin has a length of 100mil or more in increments of 50mil if number needs more space.
 1. Origin is placed in the middle of symbol.
 1. Black-box components group pins logically, for example by function set, and ports in counter-clockwise position.
 1. Whenever possible, inputs are on the left and outputs are on the right.
