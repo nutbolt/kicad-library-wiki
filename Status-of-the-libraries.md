@@ -40,7 +40,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `microchip_pic16mcu.lib` |               | **In progress**   | keruseykaryu |
 | `microchip_pic18mcu.lib` | Yes           |                   |              |
 | `microchip_pic32mcu.lib` | Yes           |                   |              |
-| `microcontrollers.lib`   | Yes           |                   |              |
+| `microcontrollers.lib`   | Yes           | Update, Merge request #74 | keruseykaryu |
 | `motorola.lib`           |               |                   |              |
 | `msp430.lib`             |               |                   |              |
 | `nordicsemi.lib`         | Yes           |                   |              |
