@@ -29,8 +29,8 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `graphic.lib`            |               |                   |              |
 | `hc11.lib`               |               |                   |              |
 | `intel.lib`              | Partial       | Need improvements |              |
-| `interface.lib`          | Yes           | Merge request     |              |
-| `ir.lib`                 | Yes           | Merge request     |              |
+| `interface.lib`          | Yes           | Merge request #74 |              |
+| `ir.lib`                 | Yes           | Merge request #74 |              |
 | `linear.lib`             |               |                   |              |
 | `logo.lib`               |               |                   |              |
 | `memory.lib`             |               |                   |              |
@@ -52,7 +52,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `pspice.lib`             |               |                   |              |
 | `references.lib`         |               |                   |              |
 | `regul.lib`              |               |                   |              |
-| `relays.lib`             | Yes           | Merge request     |              |
+| `relays.lib`             | Yes           | Merge request #74 |              |
 | `rfcom.lib`              | Yes           |                   |              |
 | `sensors.lib`            | Yes           |                   |              |
 | `siliconi.lib`           |               |                   |              |
