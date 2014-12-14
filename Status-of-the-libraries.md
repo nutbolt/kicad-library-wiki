@@ -16,7 +16,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `cmos4000.lib`           |               |                   |              |
 | `cmos_ieee.lib`          |               |                   |              |
 | `conn.lib`               |               |                   |              |
-| `contrib.lib`            |               |                   |              |
+| `contrib.lib`            | Yes           | Merge request #74 | keruseykaryu |
 | `cypress.lib`            | Yes           |                   |              |
 | `dc-dc.lib`              |               |                   |              |
 | `device.lib`             |               |                   |              |
@@ -28,11 +28,11 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `gennum.lib`             |               |                   |              |
 | `graphic.lib`            |               |                   |              |
 | `hc11.lib`               |               |                   |              |
-| `intel.lib`              | Partial       | Need improvements |              |
-| `interface.lib`          | Yes           | Merge request #74 |              |
-| `ir.lib`                 | Yes           | Merge request #74 |              |
+| `intel.lib`              | Partial       | **In progress**   | keruseykaryu |
+| `interface.lib`          | Yes           | Merge request #74 | keruseykaryu |
+| `ir.lib`                 | Yes           | Merge request #74 | keruseykaryu |
 | `linear.lib`             |               |                   |              |
-| `logo.lib`               |               |                   |              |
+| `logo.lib`               | N/A           |                   |              |
 | `memory.lib`             |               |                   |              |
 | `microchip.lib`          | Yes           |                   |              |
 | `microchip_pic10mcu.lib` | Yes           |                   |              |
@@ -52,7 +52,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `pspice.lib`             |               |                   |              |
 | `references.lib`         |               |                   |              |
 | `regul.lib`              |               |                   |              |
-| `relays.lib`             | Yes           | Merge request #74 |              |
+| `relays.lib`             | Yes           | Merge request #74 | keruseykaryu |
 | `rfcom.lib`              | Yes           |                   |              |
 | `sensors.lib`            | Yes           |                   |              |
 | `siliconi.lib`           |               |                   |              |
