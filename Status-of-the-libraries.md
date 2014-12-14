@@ -28,7 +28,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `gennum.lib`             |               |                   |              |
 | `graphic.lib`            |               |                   |              |
 | `hc11.lib`               |               |                   |              |
-| `intel.lib`              |               |                   |              |
+| `intel.lib`              | Partial       | Need improvements |              |
 | `interface.lib`          | Yes           |                   |              |
 | `ir.lib`                 | Yes           |                   |              |
 | `linear.lib`             |               |                   |              |
@@ -52,7 +52,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `pspice.lib`             |               |                   |              |
 | `references.lib`         |               |                   |              |
 | `regul.lib`              |               |                   |              |
-| `relays.lib`             |               |                   |              |
+| `relays.lib`             |               | **In progress**   | keruseykaryu |
 | `rfcom.lib`              | Yes           |                   |              |
 | `sensors.lib`            | Yes           |                   |              |
 | `siliconi.lib`           |               |                   |              |
