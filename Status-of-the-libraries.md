@@ -16,7 +16,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `cmos4000.lib`           |               |                   |              |
 | `cmos_ieee.lib`          |               |                   |              |
 | `conn.lib`               |               |                   |              |
-| `contrib.lib`            | Yes           | Merge request #74 | keruseykaryu |
+| `contrib.lib`            | Yes           |                   |              |
 | `cypress.lib`            | Yes           |                   |              |
 | `dc-dc.lib`              |               |                   |              |
 | `device.lib`             |               |                   |              |
@@ -29,8 +29,8 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `graphic.lib`            |               |                   |              |
 | `hc11.lib`               |               |                   |              |
 | `intel.lib`              | Partial       | **In progress**   | keruseykaryu |
-| `interface.lib`          | Yes           | Merge request #74 | keruseykaryu |
-| `ir.lib`                 | Yes           | Merge request #74 | keruseykaryu |
+| `interface.lib`          | Yes           |                   |              |
+| `ir.lib`                 | Yes           |                   |              |
 | `linear.lib`             |               |                   |              |
 | `logo.lib`               | N/A           |                   |              |
 | `memory.lib`             |               |                   |              |
@@ -40,7 +40,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `microchip_pic16mcu.lib` |               | **In progress**   | keruseykaryu |
 | `microchip_pic18mcu.lib` | Yes           |                   |              |
 | `microchip_pic32mcu.lib` | Yes           |                   |              |
-| `microcontrollers.lib`   | Yes           | Update, Merge request #74 | keruseykaryu |
+| `microcontrollers.lib`   | Yes           |                   |              |
 | `motorola.lib`           |               |                   |              |
 | `msp430.lib`             |               |                   |              |
 | `nordicsemi.lib`         | Yes           |                   |              |
@@ -52,7 +52,7 @@ A user who wants to make the library compliant (complex edit) should subscribe t
 | `pspice.lib`             |               |                   |              |
 | `references.lib`         |               |                   |              |
 | `regul.lib`              |               |                   |              |
-| `relays.lib`             | Yes           | Merge request #74 | keruseykaryu |
+| `relays.lib`             | Yes           |                   |              |
 | `rfcom.lib`              | Yes           |                   |              |
 | `sensors.lib`            | Yes           |                   |              |
 | `siliconi.lib`           |               |                   |              |
