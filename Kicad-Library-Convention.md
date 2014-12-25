@@ -29,7 +29,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. Origin is placed in the middle of symbol.
 1. Black-box components group pins logically, for example by function set, and ports in counter-clockwise position.
 1. Whenever possible, inputs are on the left and outputs are on the right.
-1. Field text uses a common size of 50mils.
+1. Field text, pins numbers and pin descriptions all use a common size of 50mils.
 1. The reference field is prefilled with the reference designator of the symbol (IEEE 315-1975).
 1. The Value field is prefilled with the object name.
 
