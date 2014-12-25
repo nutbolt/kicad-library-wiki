@@ -55,6 +55,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `relays.lib`             | Yes           |                   |              |
 | `rfcom.lib`              | Yes           |                   |              |
 | `sensors.lib`            | Yes           |                   |              |
+| `silabs.lib`             | Yes           |                   |              |
 | `siliconi.lib`           |               |                   |              |
 | `special.lib`            |               |                   |              |
 | `stm32.lib`              |               |                   |              |
