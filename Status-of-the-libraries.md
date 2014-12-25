@@ -1,6 +1,6 @@
 This table shows the current status of the various libraries in relation to the rules contained in [[KiCad Library Convention]] (KLC).
 
-A user who wants to make the library compliant (complex edit) should subscribe to the table to other users know their plans for another editorial.
+A user who wants to make any of the libraries compliant (complex edit) should subscribe to the table and let other users know his editing intentions in order to avoid duplication of work.
 
 | Library name             | KLC Compliant | Status            | By person    |
 |--------------------------|---------------|-------------------|--------------|
