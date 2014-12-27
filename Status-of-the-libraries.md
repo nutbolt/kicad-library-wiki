@@ -8,7 +8,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `74xx.lib`               |               |                   |              |
 | `ac-dc.lib`              | Yes           |                   |              |
 | `actel.lib`              | Yes           |                   |              |
-| `adc-dac.lib`            |               | **In progress**   | arunisaac    |
+| `adc-dac.lib`            |               |                   |              |
 | `analog_switches.lib`    |               |                   |              |
 | `atmel.lib`              |               |                   |              |
 | `audio.lib`              |               |                   |              |
