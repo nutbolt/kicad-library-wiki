@@ -42,6 +42,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `microchip_pic32mcu.lib` | Yes           |                   |              |
 | `microcontrollers.lib`   | Yes           |                   |              |
 | `motorola.lib`           |               |                   |              |
+| `motor_drivers.lib`      | Yes           |                   |              |
 | `msp430.lib`             |               |                   |              |
 | `nordicsemi.lib`         | Yes           |                   |              |
 | `nxp_armmcu.lib`         |               |                   |              |
