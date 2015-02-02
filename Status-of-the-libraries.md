@@ -37,7 +37,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `microchip.lib`          | Yes           |                   |              |
 | `microchip_pic10mcu.lib` | Yes           |                   |              |
 | `microchip_pic12mcu.lib` | Yes           |                   |              |
-| `microchip_pic16mcu.lib` |               | **In progress**   | keruseykaryu |
+| `microchip_pic16mcu.lib` | Yes           | **Merge request #112**   | keruseykaryu |
 | `microchip_pic18mcu.lib` | Yes           |                   |              |
 | `microchip_pic32mcu.lib` | Yes           |                   |              |
 | `microcontrollers.lib`   | Yes           |                   |              |
