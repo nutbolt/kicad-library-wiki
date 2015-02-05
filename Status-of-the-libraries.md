@@ -28,7 +28,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `gennum.lib`             |               |                   |              |
 | `graphic.lib`            |               |                   |              |
 | `hc11.lib`               |               |                   |              |
-| `intel.lib`              | Partial       | **In progress**   | keruseykaryu |
+| `intel.lib`              | Yes           | **Merge request #112**   | keruseykaryu |
 | `interface.lib`          | Yes           |                   |              |
 | `ir.lib`                 | Yes           |                   |              |
 | `linear.lib`             |               |                   |              |
