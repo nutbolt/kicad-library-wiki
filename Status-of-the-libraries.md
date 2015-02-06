@@ -67,5 +67,5 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `transistors.lib`        | Partial       | Need improvements |              |
 | `ttl_ieee.lib`           |               |                   |              |
 | `valves.lib`             | Partial       | Waiting           |              |
-| `video.lib`              |               |                   |              |
+| `video.lib`              | Yes           | **Merge request #112**   | keruseykaryu |
 | `xilinx.lib`             |               |                   |              |
