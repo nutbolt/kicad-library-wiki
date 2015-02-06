@@ -61,7 +61,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `special.lib`            |               |                   |              |
 | `stm32.lib`              |               |                   |              |
 | `stm8.lib`               | Yes           |                   |              |
-| `supertex.lib`           |               |                   |              |
+| `supertex.lib`           | Yes           | **Merge request #112**   | keruseykaryu |
 | `texas.lib`              |               |                   |              |
 | `transf.lib`             |               |                   |              |
 | `transistors.lib`        | Partial       | Need improvements |              |
