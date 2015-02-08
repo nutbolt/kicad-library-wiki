@@ -46,6 +46,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `msp430.lib`             |               |                   |              |
 | `nordicsemi.lib`         | Yes           |                   |              |
 | `nxp_armmcu.lib`         |               |                   |              |
+| `onsemi.lib`             | Yes           |                   |              |
 | `opto.lib`               |               |                   |              |
 | `philips.lib`            |               |                   |              |
 | `power.lib`              | Yes           |                   |              |
