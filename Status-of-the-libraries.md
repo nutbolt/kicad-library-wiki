@@ -69,4 +69,4 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `ttl_ieee.lib`           |               |                   |              |
 | `valves.lib`             | Partial       | Waiting           |              |
 | `video.lib`              | Yes           | **Merge request #112**   | keruseykaryu |
-| `xilinx.lib`             |               | In progress       | keruseykaryu |
+| `xilinx.lib`             |               |                   |              |
