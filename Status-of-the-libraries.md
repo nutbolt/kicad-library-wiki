@@ -48,7 +48,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `nxp_armmcu.lib`         |               |                   |              |
 | `onsemi.lib`             | Yes           |                   |              |
 | `opto.lib`               |               |                   |              |
-| `philips.lib`            |               |                   |              |
+| `philips.lib`            |               | In progress       | keruseykaryu |
 | `power.lib`              | Yes           |                   |              |
 | `powerint.lib`           |               |                   |              |
 | `pspice.lib`             |               |                   |              |
