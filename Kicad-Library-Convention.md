@@ -1,6 +1,6 @@
 # Kicad Library Convention
 
-_Revision 0.7, September 18th 2014_  
+_Revision 0.8, January 19th 2015_  
 _Devised by **Carl Poirier**_  
 _With help from members of:_  
 _[kicad-lib-committers](https://launchpad.net/~kicad-lib-committers)_  
@@ -29,7 +29,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. Origin is placed in the middle of symbol.
 1. Black-box components group pins logically, for example by function set, and ports in counter-clockwise position.
 1. Whenever possible, inputs are on the left and outputs are on the right.
-1. Field text, pins numbers and pin descriptions all use a common size of 50mils.
+1. Field text uses a common size of 50mils.
 1. The reference field is prefilled with the reference designator of the symbol (IEEE 315-1975).
 1. The Value field is prefilled with the object name.
 
@@ -114,3 +114,6 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 
     Revision 0.7, September 18th 2014
     1. Added rule 6.6 for courtyard
+    
+    Revision 0.8, January 19th 2015
+    1. More thorough rule about courtyard has been split over 6.6 and 6.7.
