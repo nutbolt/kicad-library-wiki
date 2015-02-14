@@ -1,6 +1,6 @@
 # Kicad Library Convention
 
-_Revision 0.8, January 19th 2015_  
+_Revision 0.9, February 14th 2015_  
 _Devised by **Carl Poirier**_  
 _With help from members of:_  
 _[kicad-lib-committers](https://launchpad.net/~kicad-lib-committers)_  
@@ -14,6 +14,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. When dimensions are used in part name, they are in millimeters, decimal places separated by a dot, and unit is not capitalized. Ex: "Cap_10x13mm_RM5".
 1. Filename is the same as the part name.
 1. The order of elements in names must be the same as the enumerations presented in this document.
+1. Reference fields are prefilled with the reference designator of the part (IEEE 315-1975).
 
 ## Symbol Libraries
 
@@ -60,8 +61,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. Courtyard line has a width 0.05mm. This line is placed so that its clearance is measured from its center to the edges of pads and body, and its position is rounded on a grid of 0.05mm.
 1. Courtyard clearance is 0.25mm except for components smaller than 0603 at 0.15mm, connectors, SMD canned capacitors and crystals at 0.5mm and BGA at 1.0mm. (IPC-7251, IPC-7351B)
 1. Cannot be duplicated to match a different pin ordering. This is to be handled in the symbol libraries.
-1. Footprint name must match its filename (.kicad_mod files).
-1. The value and reference designator must be placed on silkscreen.
+1. 3D Shape ".wrl" files are named the same as their footprint and are placed in a folder named the same as the footprint library replacing the ".pretty" with ".3dshapes".
 
 ### Names for footprints of Surface-Mount Devices (SMD)
 
@@ -84,6 +84,16 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. Part number. Ex: "Oscillator_SI570"
 1. Any modification to the original footprint, indicated by appending the reason.
 
+
+### Footprint properties
+
+1. Footprint name must match its filename. (.kicad_mod files)
+1. Text is placed on silkscreen and uses a height of 1mm.
+1. Doc property contains a full description of footprint.
+1. Keywords are separated by spaces.
+1. Value is filled with footprint name.
+1. Attributes is set to the appropriate value, see tooltip for more information.
+1. All other properties are left to default values. (Move and Place: Free; Auto Place: 0 and 0,  Local Clearance Values: 0)
 
 ***
 
@@ -117,3 +127,8 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
     
     Revision 0.8, January 19th 2015
     1. More thorough rule about courtyard has been split over 6.6 and 6.7.
+
+    Revision 0.9, February 14th 2015
+    1. Added section and rules about footprint properties
+    2. Specified the path to 3d models
+    3. Moved the reference fields rule to the general section
