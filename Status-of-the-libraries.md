@@ -11,6 +11,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `adc-dac.lib`            |               |                         |                    |
 | `analog_switches.lib`    |               |                         |                    |
 | `atmel.lib`              |               |                         |                    |
+| `audio.lib`              |               |                         |                    |
 | `brooktre.lib`           |               |                         |                    |
 | `cmos4000.lib`           |               |                         |                    |
 | `cmos_ieee.lib`          |               |                         |                    |
