@@ -28,7 +28,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `gennum.lib`             |               |                         |                    |
 | `graphic.lib`            |               |                         |                    |
 | `hc11.lib`               |               |                         |                    |
-| `intel.lib`              | Pending       | **Merge request #112**  | keruseykaryu       |
+| `intel.lib`              | Yes           |                         |                    |
 | `interface.lib`          | Yes           |                         |                    |
 | `ir.lib`                 | Yes           |                         |                    |
 | `linear.lib`             |               |                         |                    |
@@ -37,7 +37,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `microchip.lib`          | Yes           |                         |                    |
 | `microchip_pic10mcu.lib` | Yes           |                         |                    |
 | `microchip_pic12mcu.lib` | Yes           |                         |                    |
-| `microchip_pic16mcu.lib` | Pending       | **Merge request #112**  | keruseykaryu       |
+| `microchip_pic16mcu.lib` | Yes           |                         |                    |
 | `microchip_pic18mcu.lib` | Yes           |                         |                    |
 | `microchip_pic32mcu.lib` | Yes           |                         |                    |
 | `microcontrollers.lib`   | Yes           |                         |                    |
@@ -48,7 +48,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `nxp_armmcu.lib`         |               |                         |                    |
 | `onsemi.lib`             | Yes           |                         |                    |
 | `opto.lib`               |               |                         |                    |
-| `philips.lib`            | Pending       | **Merge request #112**  | keruseykaryu       |
+| `philips.lib`            | Yes           |                         |                    |
 | `power.lib`              | Yes           |                         |                    |
 | `powerint.lib`           |               |                         |                    |
 | `pspice.lib`             |               |                         |                    |
@@ -62,12 +62,12 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `special.lib`            |               |                         |                    |
 | `stm32.lib`              |               |                         |                    |
 | `stm8.lib`               | Yes           |                         |                    |
-| `supertex.lib`           | Pending       | **Merge request #112**  | keruseykaryu       |
+| `supertex.lib`           | Yes           |                         |                    |
 | `switches.lib`           | Partial       | Need improvements       |                    |
 | `texas.lib`              |               |                         |                    |
 | `transf.lib`             |               |                         |                    |
 | `transistors.lib`        | Partial       | Need improvements       |                    |
 | `ttl_ieee.lib`           |               |                         |                    |
 | `valves.lib`             | Partial       | Need improvements       |                    |
-| `video.lib`              | Pending       | **Merge request #112**  | keruseykaryu       |
+| `video.lib`              | Yes           |                         |                    |
 | `xilinx.lib`             |               |                         |                    |
