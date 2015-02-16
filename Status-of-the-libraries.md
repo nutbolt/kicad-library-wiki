@@ -24,7 +24,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `display.lib`            |               |                         |                    |
 | `dsp.lib`                |               |                         |                    |
 | `elec-unifil.lib`        |               |                         |                    |
-| `ftdi.lib`               | Partial       | In progress             | Kerusey Karyu      |
+| `ftdi.lib`               | Partial/Pending | **Merge Request** #119 | Kerusey Karyu      |
 | `gennum.lib`             |               |                         |                    |
 | `graphic.lib`            |               |                         |                    |
 | `hc11.lib`               |               |                         |                    |
