@@ -8,7 +8,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `74xx.lib`               |               |                         |                    |
 | `ac-dc.lib`              | Yes           |                         |                    |
 | `actel.lib`              | Yes           |                         |                    |
-| `adc-dac.lib`            | Pending       | **Merge Request** #119  | Kerusey Karyu      |
+| `adc-dac.lib`            | Yes           |                         |                    |
 | `analog_switches.lib`    |               |                         |                    |
 | `atmel.lib`              |               |                         |                    |
 | `audio.lib`              |               |                         |                    |
@@ -24,7 +24,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `display.lib`            |               |                         |                    |
 | `dsp.lib`                |               |                         |                    |
 | `elec-unifil.lib`        |               |                         |                    |
-| `ftdi.lib`               | Partial/Pending | **Merge Request** #119 | Kerusey Karyu      |
+| `ftdi.lib`               | Yes           |                         |                    |
 | `gennum.lib`             |               |                         |                    |
 | `graphic.lib`            |               |                         |                    |
 | `hc11.lib`               |               |                         |                    |
@@ -60,7 +60,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `silabs.lib`             | Yes           |                         |                    |
 | `siliconi.lib`           |               |                         |                    |
 | `special.lib`            |               |                         |                    |
-| `stm32.lib`              |               |                         |                    |
+| `stm32.lib`              | Pending       | **In Progress** (PR #127) | Mateusz Krawczuk   |
 | `stm8.lib`               | Yes           |                         |                    |
 | `supertex.lib`           | Yes           |                         |                    |
 | `switches.lib`           | Partial       | Need improvements       |                    |
