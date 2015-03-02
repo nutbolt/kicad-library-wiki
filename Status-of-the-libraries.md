@@ -20,7 +20,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `cypress.lib`            | Yes           |                         |                    |
 | `dc-dc.lib`              |               |                         |                    |
 | `device.lib`             |               |                         |                    |
-| `digital-audio.lib`      |               |                         |                    |
+| `digital-audio.lib`      | Pending       | **Merge Request** (PR #134) | ObKo               |
 | `display.lib`            |               |                         |                    |
 | `dsp.lib`                |               |                         |                    |
 | `elec-unifil.lib`        |               |                         |                    |
