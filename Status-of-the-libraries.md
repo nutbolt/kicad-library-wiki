@@ -6,9 +6,9 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 |--------------------------|---------------|-------------------------|--------------------|
 | `74xgxx.lib`             |               |                         |                    |
 | `74xx.lib`               |               |                         |                    |
-| `ac-dc.lib`              | Yes           |                         |                    |
-| `actel.lib`              | Yes           |                         |                    |
-| `adc-dac.lib`            | Yes           |                         |                    |
+| `ac-dc.lib`              | Yes           | No action is required   |                    |
+| `actel.lib`              | Yes           | No action is required   |                    |
+| `adc-dac.lib`            | Yes           | No action is required   |                    |
 | `analog_switches.lib`    |               |                         |                    |
 | `atmel.lib`              |               |                         |                    |
 | `audio.lib`              |               |                         |                    |
@@ -16,58 +16,58 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `cmos4000.lib`           |               |                         |                    |
 | `cmos_ieee.lib`          |               |                         |                    |
 | `conn.lib`               |               |                         |                    |
-| `contrib.lib`            | Yes           |                         |                    |
-| `cypress.lib`            | Yes           |                         |                    |
+| `contrib.lib`            | Yes           | No action is required   |                    |
+| `cypress.lib`            | Yes           | No action is required   |                    |
 | `dc-dc.lib`              |               |                         |                    |
 | `device.lib`             |               |                         |                    |
-| `digital-audio.lib`      | Pending       | **Merge Request** (PR #134) | ObKo               |
+| `digital-audio.lib`      | Yes           | No action is required   |                    |
 | `display.lib`            |               |                         |                    |
 | `dsp.lib`                |               |                         |                    |
 | `elec-unifil.lib`        |               |                         |                    |
-| `ftdi.lib`               | Yes           |                         |                    |
+| `ftdi.lib`               | Yes           | No action is required   |                    |
 | `gennum.lib`             |               |                         |                    |
 | `graphic.lib`            |               |                         |                    |
 | `hc11.lib`               |               |                         |                    |
-| `intel.lib`              | Yes           |                         |                    |
-| `interface.lib`          | Yes           |                         |                    |
-| `ir.lib`                 | Yes           |                         |                    |
+| `intel.lib`              | Yes           | No action is required   |                    |
+| `interface.lib`          | Yes           | No action is required   |                    |
+| `ir.lib`                 | Yes           | No action is required   |                    |
 | `linear.lib`             |               |                         |                    |
 | `logo.lib`               | N/A           | ---                     | ---                |
 | `memory.lib`             |               |                         |                    |
-| `microchip.lib`          | Yes           |                         |                    |
-| `microchip_pic10mcu.lib` | Yes           |                         |                    |
-| `microchip_pic12mcu.lib` | Yes           |                         |                    |
-| `microchip_pic16mcu.lib` | Yes           |                         |                    |
-| `microchip_pic18mcu.lib` | Yes           |                         |                    |
-| `microchip_pic32mcu.lib` | Yes           |                         |                    |
-| `microcontrollers.lib`   | Yes           |                         |                    |
+| `microchip.lib`          | Yes           | No action is required   |                    |
+| `microchip_pic10mcu.lib` | Yes           | No action is required   |                    |
+| `microchip_pic12mcu.lib` | Yes           | No action is required   |                    |
+| `microchip_pic16mcu.lib` | Yes           | No action is required   |                    |
+| `microchip_pic18mcu.lib` | Yes           | No action is required   |                    |
+| `microchip_pic32mcu.lib` | Yes           | No action is required   |                    |
+| `microcontrollers.lib`   | Yes           | No action is required   |                    |
 | `motorola.lib`           |               |                         |                    |
-| `motor_drivers.lib`      | Yes           |                         |                    |
+| `motor_drivers.lib`      | Yes           | No action is required   |                    |
 | `msp430.lib`             |               |                         |                    |
-| `nordicsemi.lib`         | Yes           |                         |                    |
+| `nordicsemi.lib`         | Yes           | No action is required   |                    |
 | `nxp_armmcu.lib`         |               |                         |                    |
-| `onsemi.lib`             | Yes           |                         |                    |
+| `onsemi.lib`             | Yes           | No action is required   |                    |
 | `opto.lib`               |               |                         |                    |
-| `philips.lib`            | Yes           |                         |                    |
-| `power.lib`              | Yes           |                         |                    |
+| `philips.lib`            | Yes           | No action is required   |                    |
+| `power.lib`              | Yes           | No action is required   |                    |
 | `powerint.lib`           |               |                         |                    |
 | `pspice.lib`             |               |                         |                    |
 | `references.lib`         |               |                         |                    |
 | `regul.lib`              |               |                         |                    |
-| `relays.lib`             | Yes           |                         |                    |
-| `rfcom.lib`              | Yes           |                         |                    |
-| `sensors.lib`            | Yes           |                         |                    |
-| `silabs.lib`             | Yes           |                         |                    |
+| `relays.lib`             | Yes           | No action is required   |                    |
+| `rfcom.lib`              | Yes           | No action is required   |                    |
+| `sensors.lib`            | Yes           | No action is required   |                    |
+| `silabs.lib`             | Yes           | No action is required   |                    |
 | `siliconi.lib`           |               |                         |                    |
 | `special.lib`            |               |                         |                    |
 | `stm32.lib`              | Pending       | **In Progress** (PR #127) | Mateusz Krawczuk   |
-| `stm8.lib`               | Yes           |                         |                    |
-| `supertex.lib`           | Yes           |                         |                    |
+| `stm8.lib`               | Yes           | No action is required   |                    |
+| `supertex.lib`           | Yes           | No action is required   |                    |
 | `switches.lib`           | Partial       | Need improvements       |                    |
 | `texas.lib`              |               |                         |                    |
 | `transf.lib`             |               |                         |                    |
 | `transistors.lib`        | Partial       | Need improvements       |                    |
 | `ttl_ieee.lib`           |               |                         |                    |
 | `valves.lib`             | Partial       | Need improvements       |                    |
-| `video.lib`              | Yes           |                         |                    |
+| `video.lib`              | Yes           | No action is required   |                    |
 | `xilinx.lib`             |               |                         |                    |
