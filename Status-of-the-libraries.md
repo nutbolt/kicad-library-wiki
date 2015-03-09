@@ -66,7 +66,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `switches.lib`           | Partial       | Need improvements       |                    |
 | `texas.lib`              |               |                         |                    |
 | `transf.lib`             |               |                         |                    |
-| `transistors.lib`        |               |                         |                    |
+| `transistors.lib`        | **Pending**       | **Merge Request** (141) | Kerusey Karyu      |
 | `ttl_ieee.lib`           |               |                         |                    |
 | `valves.lib`             | Partial       | Need improvements       |                    |
 | `video.lib`              | Yes           | No action is required   |                    |
