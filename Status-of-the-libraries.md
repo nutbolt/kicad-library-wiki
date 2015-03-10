@@ -27,7 +27,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `ftdi.lib`               | Yes           | No action is required   |                    |
 | `gennum.lib`             |               |                         |                    |
 | `graphic.lib`            |               |                         |                    |
-| `hc11.lib`               |               |                         |                    |
+| `hc11.lib`               | Pending       | Merge request #142      | Kerusey Karyu      |
 | `intel.lib`              | Yes           | No action is required   |                    |
 | `interface.lib`          | Yes           | No action is required   |                    |
 | `ir.lib`                 | Yes           | No action is required   |                    |
@@ -66,7 +66,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `switches.lib`           | Partial       | Need improvements       |                    |
 | `texas.lib`              |               |                         |                    |
 | `transf.lib`             |               |                         |                    |
-| `transistors.lib`        |               |                         |                    |
+| `transistors.lib`        | Pending       | Merge Request #142      | Kerusey Karyu      |
 | `ttl_ieee.lib`           |               |                         |                    |
 | `valves.lib`             | Partial       | Need improvements       |                    |
 | `video.lib`              | Yes           | No action is required   |                    |
