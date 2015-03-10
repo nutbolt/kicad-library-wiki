@@ -47,7 +47,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `nordicsemi.lib`         | Yes           | No action is required   |                    |
 | `nxp_armmcu.lib`         |               |                         |                    |
 | `onsemi.lib`             | Yes           | No action is required   |                    |
-| `opto.lib`               |               |                         |                    |
+| `opto.lib`               | Pending       | **In Progress**         | Kerusey Karyu      |
 | `philips.lib`            | Yes           | No action is required   |                    |
 | `power.lib`              | Yes           | No action is required   |                    |
 | `powerint.lib`           |               |                         |                    |
