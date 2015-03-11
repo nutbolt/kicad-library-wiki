@@ -26,7 +26,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `elec-unifil.lib`        |               |                         |                    |
 | `ftdi.lib`               | Yes           | No action is required   |                    |
 | `gennum.lib`             |               |                         |                    |
-| `graphic.lib`            |               |                         |                    |
+| `graphic.lib`            | N/A           | ---                     | ---                |
 | `hc11.lib`               | Pending       | Merge request #142      | Kerusey Karyu      |
 | `intel.lib`              | Yes           | No action is required   |                    |
 | `interface.lib`          | Yes           | No action is required   |                    |
@@ -47,7 +47,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `nordicsemi.lib`         | Yes           | No action is required   |                    |
 | `nxp_armmcu.lib`         |               |                         |                    |
 | `onsemi.lib`             | Yes           | No action is required   |                    |
-| `opto.lib`               | Pending       | **In Progress**         | Kerusey Karyu      |
+| `opto.lib`               | Pending       | Merge request #142      | Kerusey Karyu      |
 | `philips.lib`            | Yes           | No action is required   |                    |
 | `power.lib`              | Yes           | No action is required   |                    |
 | `powerint.lib`           |               |                         |                    |
@@ -71,3 +71,5 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `valves.lib`             | Partial       | Need improvements       |                    |
 | `video.lib`              | Yes           | No action is required   |                    |
 | `xilinx.lib`             |               |                         |                    |
+
+Overall status: **50%** of library set meet the KLC rules.
