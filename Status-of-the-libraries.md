@@ -23,7 +23,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `digital-audio.lib`      | Yes           | No action is required   |                    |
 | `display.lib`            |               |                         |                    |
 | `dsp.lib`                |               |                         |                    |
-| `elec-unifil.lib`        |               |                         |                    |
+| `elec-unifil.lib`        | N/A           | ---                     | ---                |
 | `ftdi.lib`               | Yes           | No action is required   |                    |
 | `gennum.lib`             |               |                         |                    |
 | `graphic.lib`            | N/A           | ---                     | ---                |
@@ -65,11 +65,11 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `supertex.lib`           | Yes           | No action is required   |                    |
 | `switches.lib`           | Partial       | Need improvements       |                    |
 | `texas.lib`              |               |                         |                    |
-| `transf.lib`             | Partial       | **In Progress** (PR #142) | Kerusey Karyu      |
+| `transf.lib`             | Pending       | Merge Request #142      | Kerusey Karyu      |
 | `transistors.lib`        | Pending       | Merge Request #142      | Kerusey Karyu      |
 | `ttl_ieee.lib`           |               |                         |                    |
 | `valves.lib`             | Partial       | Need improvements       |                    |
 | `video.lib`              | Yes           | No action is required   |                    |
 | `xilinx.lib`             |               |                         |                    |
 
-Overall status: **51%** of library set meet the KLC rules.
+Overall status: **53%** of library set meet the KLC rules.
