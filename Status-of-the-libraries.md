@@ -27,7 +27,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `ftdi.lib`               | Yes           | No action is required   |                    |
 | `gennum.lib`             |               |                         |                    |
 | `graphic.lib`            | N/A           | ---                     | ---                |
-| `hc11.lib`               | Pending       | Merge request #142      | Kerusey Karyu      |
+| `hc11.lib`               | Yes           | No action is required   |                    |
 | `intel.lib`              | Yes           | No action is required   |                    |
 | `interface.lib`          | Yes           | No action is required   |                    |
 | `ir.lib`                 | Yes           | No action is required   |                    |
@@ -47,7 +47,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `nordicsemi.lib`         | Yes           | No action is required   |                    |
 | `nxp_armmcu.lib`         |               |                         |                    |
 | `onsemi.lib`             | Yes           | No action is required   |                    |
-| `opto.lib`               | Pending       | Merge request #142      | Kerusey Karyu      |
+| `opto.lib`               | Yes           | Some parts should be a bit adjusted | Carl Poirier / Kerusey Karyu |
 | `philips.lib`            | Yes           | No action is required   |                    |
 | `power.lib`              | Yes           | No action is required   |                    |
 | `powerint.lib`           |               |                         |                    |
@@ -65,8 +65,8 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `supertex.lib`           | Yes           | No action is required   |                    |
 | `switches.lib`           | Partial       | Need improvements       |                    |
 | `texas.lib`              |               |                         |                    |
-| `transf.lib`             | Pending       | Merge Request #142      | Kerusey Karyu      |
-| `transistors.lib`        | Pending       | Merge Request #142      | Kerusey Karyu      |
+| `transf.lib`             | Yes           | No action is required   |                    |
+| `transistors.lib`        | Yes           | No action is required   |                    |
 | `ttl_ieee.lib`           |               |                         |                    |
 | `valves.lib`             | Partial       | Need improvements       |                    |
 | `video.lib`              | Yes           | No action is required   |                    |
