@@ -18,7 +18,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `conn.lib`               |               |                         |                    |
 | `contrib.lib`            | Yes           | No action is required   |                    |
 | `cypress.lib`            | Yes           | No action is required   |                    |
-| `dc-dc.lib`              |               |                         |                    |
+| `dc-dc.lib`              | Pending       | Pull Request #145       | Kerusey Karyu      |
 | `device.lib`             |               |                         |                    |
 | `digital-audio.lib`      | Yes           | No action is required   |                    |
 | `display.lib`            |               |                         |                    |
@@ -72,4 +72,4 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `video.lib`              | Yes           | No action is required   |                    |
 | `xilinx.lib`             |               |                         |                    |
 
-Overall status: **53%** of library set meet the KLC rules.
+Overall status: **57%** of library set meet the KLC rules.
