@@ -22,7 +22,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `device.lib`             |               |                         |                    |
 | `digital-audio.lib`      | Yes           | No action is required   |                    |
 | `display.lib`            |               |                         |                    |
-| `dsp.lib`                |               |                         |                    |
+| `dsp.lib`                | Pending       | Pull Request #145       | Kerusey Karyu      |
 | `elec-unifil.lib`        | N/A           | ---                     | ---                |
 | `ftdi.lib`               | Yes           | No action is required   |                    |
 | `gennum.lib`             |               |                         |                    |
