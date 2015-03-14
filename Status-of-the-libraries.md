@@ -64,7 +64,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `stm8.lib`               | Yes           | No action is required   |                    |
 | `supertex.lib`           | Yes           | No action is required   |                    |
 | `switches.lib`           | Partial       | Need improvements       |                    |
-| `texas.lib`              |               |                         |                    |
+| `texas.lib`              | Pending       | Pull Request #145       | Kerusey Karyu      |
 | `transf.lib`             | Yes           | No action is required   |                    |
 | `transistors.lib`        | Yes           | No action is required   |                    |
 | `ttl_ieee.lib`           |               |                         |                    |
