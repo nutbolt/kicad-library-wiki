@@ -17,7 +17,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `cmos_ieee.lib`          |               |                         |                    |
 | `conn.lib`               |               |                         |                    |
 | `contrib.lib`            | Yes           | No action is required   |                    |
-| `cypress.lib`            | Yes           | No action is required   |                    |
+| `cypress.lib`            | Yes           | New symbols waiting in Pull Request #145 | Kerusey Karyu      |
 | `dc-dc.lib`              | Pending       | Pull Request #145       | Kerusey Karyu      |
 | `device.lib`             |               |                         |                    |
 | `digital-audio.lib`      | Yes           | No action is required   |                    |
