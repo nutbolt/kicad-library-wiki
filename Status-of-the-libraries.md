@@ -9,6 +9,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `ac-dc.lib`              | Yes           | No action is required   |                    |
 | `actel.lib`              | Yes           | No action is required   |                    |
 | `adc-dac.lib`            | Yes           | No action is required   |                    |
+| `analog_devices.lib`     | Yes           | No action is required   |                    |
 | `analog_switches.lib`    |               |                         |                    |
 | `atmel.lib`              |               |                         |                    |
 | `audio.lib`              |               |                         |                    |
