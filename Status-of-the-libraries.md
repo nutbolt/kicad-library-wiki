@@ -60,7 +60,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `sensors.lib`            | Yes           | No action is required   |                    |
 | `silabs.lib`             | Yes           | No action is required   |                    |
 | `siliconi.lib`           |               |                         |                    |
-| `special.lib`            |               |                         |                    |
+| `special.lib`            | No            | **Split an distribution of symbols proposal** (IS #153) | Kerusey Karyu |
 | `stm32.lib`              | Pending       | **In Progress** (PR #127) | Mateusz Krawczuk   |
 | `stm8.lib`               | Yes           | No action is required   |                    |
 | `supertex.lib`           | Yes           | No action is required   |                    |
