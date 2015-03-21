@@ -35,7 +35,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `logo.lib`               | N/A           | ---                     | ---                |
 | `memory.lib`             |               |                         |                    |
 | `microchip.lib`          | Yes           | No action is required   |                    |
-| `microchip_dspic33dsc.lib` | Yes           | Minor fixes must be applied | Kerusey Karyu  |
+| `microchip_dspic33dsc.lib` | Yes           | No action is required   |                    |
 | `microchip_pic10mcu.lib` | Yes           | No action is required   |                    |
 | `microchip_pic12mcu.lib` | Yes           | No action is required   |                    |
 | `microchip_pic16mcu.lib` | Yes           | No action is required   |                    |
