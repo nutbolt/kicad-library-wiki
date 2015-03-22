@@ -52,7 +52,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `opto.lib`               | Yes           | No action is required   |                    |
 | `philips.lib`            | Yes           | No action is required   |                    |
 | `power.lib`              | Yes           | No action is required   |                    |
-| `powerint.lib`           |               |                         |                    |
+| `powerint.lib`           | Pending       | Pull Request #145       | Kerusey Karyu      |
 | `pspice.lib`             |               |                         |                    |
 | `references.lib`         |               |                         |                    |
 | `regul.lib`              |               |                         |                    |
@@ -74,4 +74,4 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `video.lib`              | Yes           | No action is required   |                    |
 | `xilinx.lib`             |               |                         |                    |
 
-Overall status: **56%** of library set meet the KLC rules.
+Overall status: **58%** of library set meet the KLC rules.
