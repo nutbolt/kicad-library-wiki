@@ -34,6 +34,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `ir.lib`                 | Yes           | No action is required   |                    |
 | `linear.lib`             |               |                         |                    |
 | `logo.lib`               | N/A           | ---                     | ---                |
+| `maxim.lib`              | Yes           | No action is required   |                    |
 | `memory.lib`             |               |                         |                    |
 | `microchip.lib`          | Yes           | No action is required   |                    |
 | `microchip_dspic33dsc.lib` | Yes           | No action is required   |                    |
@@ -74,4 +75,4 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `video.lib`              | Yes           | No action is required   |                    |
 | `xilinx.lib`             |               |                         |                    |
 
-Overall status: **58%** of library set meet the KLC rules.
+Overall status: **62%** of library set meet the KLC rules.
