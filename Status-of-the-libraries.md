@@ -11,7 +11,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `adc-dac.lib`            | Yes           | No action is required   |                    |
 | `analog_devices.lib`     | Yes           | No action is required   |                    |
 | `analog_switches.lib`    |               |                         |                    |
-| `atmel.lib`              |               |                         |                    |
+| `atmel.lib`              | No            | Bottom pad should be included. https://github.com/KiCad/kicad-library/issues/13                        |                    |
 | `audio.lib`              |               |                         |                    |
 | `brooktre.lib`           |               |                         |                    |
 | `cmos4000.lib`           |               |                         |                    |
