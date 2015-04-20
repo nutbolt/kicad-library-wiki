@@ -11,19 +11,19 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `adc-dac.lib`            | Yes           | No action is required   |                    |
 | `analog_devices.lib`     | Yes           | No action is required   |                    |
 | `analog_switches.lib`    |               |                         |                    |
-| `atmel.lib`              | No            | Bottom pad should be included. https://github.com/KiCad/kicad-library/issues/13                        |                    |
+| `atmel.lib`              | No            | Bottom pad should be included. https://github.com/KiCad/kicad-library/issues/13 |                    |
 | `audio.lib`              |               |                         |                    |
 | `brooktre.lib`           |               |                         |                    |
 | `cmos4000.lib`           |               |                         |                    |
 | `cmos_ieee.lib`          |               |                         |                    |
 | `conn.lib`               |               |                         |                    |
 | `contrib.lib`            | Yes           | No action is required   |                    |
-| `cypress.lib`            | Yes           | New symbols waiting in Pull Request #145 | Kerusey Karyu      |
-| `dc-dc.lib`              | Pending       | Pull Request #145       | Kerusey Karyu      |
+| `cypress.lib`            | Yes           | No action is required   |                    |
+| `dc-dc.lib`              | Yes           | No action is required   |                    |
 | `device.lib`             |               |                         |                    |
 | `digital-audio.lib`      | Yes           | No action is required   |                    |
 | `display.lib`            |               |                         |                    |
-| `dsp.lib`                | Pending       | Pull Request #145       | Kerusey Karyu      |
+| `dsp.lib`                | Yes           | No action is required   |                    |
 | `elec-unifil.lib`        | N/A           | ---                     | ---                |
 | `ftdi.lib`               | Yes           | No action is required   |                    |
 | `gennum.lib`             |               |                         |                    |
@@ -53,7 +53,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `opto.lib`               | Yes           | No action is required   |                    |
 | `philips.lib`            | Yes           | No action is required   |                    |
 | `power.lib`              | Yes           | No action is required   |                    |
-| `powerint.lib`           | Pending       | Pull Request #145       | Kerusey Karyu      |
+| `powerint.lib`           | Yes           | No action is required   |                    |
 | `pspice.lib`             |               |                         |                    |
 | `references.lib`         |               |                         |                    |
 | `regul.lib`              |               |                         |                    |
@@ -67,7 +67,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `stm8.lib`               | Yes           | No action is required   |                    |
 | `supertex.lib`           | Yes           | No action is required   |                    |
 | `switches.lib`           | Partial       | Need improvements       |                    |
-| `texas.lib`              | Pending       | Pull Request #145       | Kerusey Karyu      |
+| `texas.lib`              | Yes           | No action is required   |                    |
 | `transf.lib`             | Yes           | No action is required   |                    |
 | `transistors.lib`        | Yes           | No action is required   |                    |
 | `ttl_ieee.lib`           |               |                         |                    |
@@ -75,4 +75,4 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `video.lib`              | Yes           | No action is required   |                    |
 | `xilinx.lib`             |               |                         |                    |
 
-Overall status: **62%** of library set meet the KLC rules.
+Overall status: **67%** of library set meet the KLC rules.
