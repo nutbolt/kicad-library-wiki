@@ -2,77 +2,83 @@ This table shows the current status of the various libraries in relation to the 
 
 A user who wants to make any of the libraries compliant (complex edit) should subscribe to the table and let other users know his editing intentions in order to avoid duplication of work.
 
-| Library name             | KLC Compliant | Status                  | By person          |
-|--------------------------|---------------|-------------------------|--------------------|
-| `74xgxx.lib`             |               |                         |                    |
-| `74xx.lib`               |               |                         |                    |
-| `ac-dc.lib`              | Yes           | No action is required   |                    |
-| `actel.lib`              | Yes           | No action is required   |                    |
-| `adc-dac.lib`            | Yes           | No action is required   |                    |
-| `analog_devices.lib`     | Yes           | No action is required   |                    |
-| `analog_switches.lib`    |               |                         |                    |
-| `atmel.lib`              | No            | Bottom pad should be included. https://github.com/KiCad/kicad-library/issues/13 |                    |
-| `audio.lib`              |               |                         |                    |
-| `brooktre.lib`           |               |                         |                    |
-| `cmos4000.lib`           |               |                         |                    |
-| `cmos_ieee.lib`          |               |                         |                    |
-| `conn.lib`               |               |                         |                    |
-| `contrib.lib`            | Yes           | No action is required   |                    |
-| `cypress.lib`            | Yes           | No action is required   |                    |
-| `dc-dc.lib`              | Yes           | No action is required   |                    |
-| `device.lib`             |               |                         |                    |
-| `digital-audio.lib`      | Yes           | No action is required   |                    |
-| `display.lib`            |               |                         |                    |
-| `dsp.lib`                | Yes           | No action is required   |                    |
-| `elec-unifil.lib`        | N/A           | ---                     | ---                |
-| `ftdi.lib`               | Yes           | No action is required   |                    |
-| `gennum.lib`             |               |                         |                    |
-| `graphic.lib`            | N/A           | ---                     | ---                |
-| `hc11.lib`               | Yes           | No action is required   |                    |
-| `intel.lib`              | Yes           | No action is required   |                    |
-| `interface.lib`          | Yes           | No action is required   |                    |
-| `ir.lib`                 | Yes           | No action is required   |                    |
-| `linear.lib`             |               |                         |                    |
-| `logo.lib`               | N/A           | ---                     | ---                |
-| `maxim.lib`              | Yes           | No action is required   |                    |
-| `memory.lib`             |               |                         |                    |
-| `microchip.lib`          | Yes           | No action is required   |                    |
-| `microchip_dspic33dsc.lib` | Yes           | No action is required   |                    |
-| `microchip_pic10mcu.lib` | Yes           | No action is required   |                    |
-| `microchip_pic12mcu.lib` | Yes           | No action is required   |                    |
-| `microchip_pic16mcu.lib` | Yes           | No action is required   |                    |
-| `microchip_pic18mcu.lib` | Yes           | No action is required   |                    |
-| `microchip_pic32mcu.lib` | Yes           | No action is required   |                    |
-| `microcontrollers.lib`   | Yes           | No action is required   |                    |
-| `motorola.lib`           |               |                         |                    |
-| `motor_drivers.lib`      | Yes           | No action is required   |                    |
-| `msp430.lib`             |               |                         |                    |
-| `nordicsemi.lib`         | Yes           | No action is required   |                    |
-| `nxp_armmcu.lib`         |               |                         |                    |
-| `onsemi.lib`             | Yes           | No action is required   |                    |
-| `opto.lib`               | Yes           | No action is required   |                    |
-| `philips.lib`            | Yes           | No action is required   |                    |
-| `power.lib`              | Yes           | No action is required   |                    |
-| `powerint.lib`           | Yes           | No action is required   |                    |
-| `pspice.lib`             |               |                         |                    |
-| `references.lib`         |               |                         |                    |
-| `regul.lib`              |               |                         |                    |
-| `relays.lib`             | Yes           | No action is required   |                    |
-| `rfcom.lib`              | Yes           | No action is required   |                    |
-| `sensors.lib`            | Yes           | No action is required   |                    |
-| `silabs.lib`             | Yes           | No action is required   |                    |
-| `siliconi.lib`           |               |                         |                    |
-| `special.lib`            | No            | **Split an distribution of symbols proposal** (IS #153) |                    |
-| `stm32.lib`              | Pending       | **In Progress** (PR #127) | Mateusz Krawczuk   |
-| `stm8.lib`               | Yes           | No action is required   |                    |
-| `supertex.lib`           | Yes           | No action is required   |                    |
-| `switches.lib`           | Partial       | Need improvements       |                    |
-| `texas.lib`              | Yes           | No action is required   |                    |
-| `transf.lib`             | Yes           | No action is required   |                    |
-| `transistors.lib`        | Yes           | No action is required   |                    |
-| `ttl_ieee.lib`           |               |                         |                    |
-| `valves.lib`             | Partial       | Need improvements       |                    |
-| `video.lib`              | Yes           | No action is required   |                    |
-| `xilinx.lib`             |               |                         |                    |
+| Library name               | KLC Compliant | Action / Information    | By person          |
+|----------------------------|---------------|-------------------------|--------------------|
+| `74xgxx.lib`               |               |                         |                    |
+| `74xx.lib`                 |               |                         |                    |
+| `ac-dc.lib`                | Yes           |                         |                    |
+| `actel.lib`                | Yes           |                         |                    |
+| `adc-dac.lib`              | Partial       | Need improvements       |                    |
+| `Altera.lib`               |               |                         |                    |
+| `analog_devices.lib`       | Yes           |                         |                    |
+| `analog_switches.lib`      |               |                         |                    |
+| `atmel.lib`                | No            | Bottom pad should be included. https://github.com/KiCad/kicad-library/issues/13 |                    |
+| `audio.lib`                |               |                         |                    |
+| `brooktre.lib`             |               |                         |                    |
+| `cmos4000.lib`             |               |                         |                    |
+| `cmos_ieee.lib`            |               |                         |                    |
+| `conn.lib`                 |               |                         |                    |
+| `contrib.lib`              | Yes           |                         |                    |
+| `cypress.lib`              | Yes           |                         |                    |
+| `dc-dc.lib`                | Partial       | Need improvements       |                    |
+| `device.lib`               |               |                         |                    |
+| `digital-audio.lib`        | Yes           |                         |                    |
+| `display.lib`              |               |                         |                    |
+| `dsp.lib`                  | Yes           |                         |                    |
+| `elec-unifil.lib`          | N/A           | ---                     | ---                |
+| `ESD_Protection.lib`       |               |                         |                    |
+| `ftdi.lib`                 | Yes           |                         |                    |
+| `gennum.lib`               |               |                         |                    |
+| `graphic.lib`              | N/A           | ---                     | ---                |
+| `hc11.lib`                 | Yes           |                         |                    |
+| `intel.lib`                | Yes           |                         |                    |
+| `interface.lib`            | Partial       | Need improvements       |                    |
+| `ir.lib`                   | Yes           |                         |                    |
+| `Lattice.lib`              | Yes           |                         |                    |
+| `linear.lib`               |               |                         |                    |
+| `logo.lib`                 | N/A           | ---                     | ---                |
+| `maxim.lib`                | Partial       | Need improvements       |                    |
+| `memory.lib`               |               |                         |                    |
+| `microchip.lib`            | Yes           |                         |                    |
+| `microchip_dspic33dsc.lib` | Yes           |                         |                    |
+| `microchip_pic10mcu.lib`   | Yes           |                         |                    |
+| `microchip_pic12mcu.lib`   | Yes           |                         |                    |
+| `microchip_pic16mcu.lib`   | Yes           |                         |                    |
+| `microchip_pic18mcu.lib`   | Yes           |                         |                    |
+| `microchip_pic32mcu.lib`   | Yes           |                         |                    |
+| `microcontrollers.lib`     | Yes           |                         |                    |
+| `motorola.lib`             |               |                         |                    |
+| `motor_drivers.lib`        | Yes           |                         |                    |
+| `msp430.lib`               |               |                         |                    |
+| `nordicsemi.lib`           | Yes           |                         |                    |
+| `nxp_armmcu.lib`           |               |                         |                    |
+| `onsemi.lib`               | Yes           |                         |                    |
+| `opto.lib`                 | Partial       | Need improvements       |                    |
+| `Oscillators.lib`          |               |                         |                    |
+| `philips.lib`              | Yes           |                         |                    |
+| `power.lib`                | Yes           |                         |                    |
+| `powerint.lib`             | Yes           |                         |                    |
+| `Power_Management.lib`     |               |                         |                    |
+| `pspice.lib`               |               |                         |                    |
+| `references.lib`           |               |                         |                    |
+| `regul.lib`                |               |                         |                    |
+| `relays.lib`               | Yes           |                         |                    |
+| `rfcom.lib`                | Partial       | Need improvements       |                    |
+| `sensors.lib`              | Partial       | Need improvements       |                    |
+| `silabs.lib`               | Yes           |                         |                    |
+| `siliconi.lib`             |               |                         |                    |
+| `stm32.lib`                | Pending       | **In Progress** (PR #127) | Mateusz Krawczuk   |
+| `stm8.lib`                 | Yes           |                         |                    |
+| `supertex.lib`             | Yes           |                         |                    |
+| `switches.lib`             | Partial       | Need improvements       |                    |
+| `texas.lib`                | Partial       | Need improvements       |                    |
+| `transf.lib`               | Yes           |                         |                    |
+| `transistors.lib`          | Partial       | Need improvements       |                    |
+| `ttl_ieee.lib`             |               |                         |                    |
+| `valves.lib`               | Partial       | Need improvements       |                    |
+| `video.lib`                | Partial       | Need improvements       |                    |
+| `Xicor.lib`                |               |                         |                    |
+| `xilinx.lib`               |               |                         |                    |
+| `Zilog.lib`                | Yes           |                         |                    |
 
-Overall status: **67%** of library set meet the KLC rules.
+Overall status: only **44%** of library set meet the KLC rules.
