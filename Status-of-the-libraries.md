@@ -8,7 +8,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `74xx.lib`                 |               |                         |                    |
 | `ac-dc.lib`                | Yes           |                         |                    |
 | `actel.lib`                | Yes           |                         |                    |
-| `adc-dac.lib`              | Pending       |                         | Kerusey Karyu      |
+| `adc-dac.lib`              | Yes           |                         |                    |
 | `Altera.lib`               |               |                         |                    |
 | `analog_devices.lib`       | Yes           |                         |                    |
 | `analog_switches.lib`      |               |                         |                    |
@@ -77,8 +77,8 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `ttl_ieee.lib`             |               |                         |                    |
 | `valves.lib`               | Partial       | Need improvements       |                    |
 | `video.lib`                | Partial       | Need improvements       |                    |
-| `Xicor.lib`                | Pending       |                         | Kerusey Karyu      |
+| `Xicor.lib`                | Yes           |                         |                    |
 | `xilinx.lib`               |               |                         |                    |
 | `Zilog.lib`                | Yes           |                         |                    |
 
-Overall status: only **44%** of library set meet the KLC rules.
+Overall status: only **45%** of library set meet the KLC rules.
