@@ -2,14 +2,15 @@ This table shows the current status of the various libraries in relation to the 
 
 A user who wants to make any of the libraries compliant (complex edit) should subscribe to the table and let other users know his editing intentions in order to avoid duplication of work.
 
-| Library name               | KLC Compliant | Action / Information    | By person          |
-|----------------------------|---------------|-------------------------|--------------------|
+| Library name               | [[KLC|KiCad Library Convention]] Compliant | Action / Information    | By person          |
+|----------------------------|:-------------:|-------------------------|--------------------|
 | `74xgxx.lib`               |               |                         |                    |
 | `74xx.lib`                 |               |                         |                    |
 | `ac-dc.lib`                | Yes           |                         |                    |
 | `actel.lib`                | Yes           |                         |                    |
 | `adc-dac.lib`              | Yes           |                         |                    |
-| `Altera.lib`               |               |                         |                    |
+| `Altera.lib`               | Pending       | **In Progress** (Request #224) | Ricardo Crudo      |
+| `Allegro.lib`              | Pending       | **In Progress** (Request #222) | Bosvark            |
 | `analog_devices.lib`       | Yes           |                         |                    |
 | `analog_switches.lib`      |               |                         |                    |
 | `atmel.lib`                | No            | Bottom pad should be included. https://github.com/KiCad/kicad-library/issues/13 |                    |
@@ -61,13 +62,13 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `Power_Management.lib`     |               |                         |                    |
 | `pspice.lib`               |               |                         |                    |
 | `references.lib`           |               |                         |                    |
-| `regul.lib`                |               |                         |                    |
+| `regul.lib`                | Pending       | **In Progress** (Request #223) | Ricardo Crudo      |
 | `relays.lib`               | Yes           |                         |                    |
 | `rfcom.lib`                | Partial       | Need improvements       |                    |
 | `sensors.lib`              | Partial       | Need improvements       |                    |
 | `silabs.lib`               | Yes           |                         |                    |
 | `siliconi.lib`             |               |                         |                    |
-| `stm32.lib`                | Pending       | **In Progress** (PR #127) | Mateusz Krawczuk   |
+| `stm32.lib`                | Pending       | **In Progress** (Requests #127 #208) | Mateusz Krawczuk, DrLuke |
 | `stm8.lib`                 | Yes           |                         |                    |
 | `supertex.lib`             | Yes           |                         |                    |
 | `switches.lib`             | Partial       | Need improvements       |                    |
@@ -81,4 +82,4 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `xilinx.lib`               |               |                         |                    |
 | `Zilog.lib`                | Yes           |                         |                    |
 
-Overall status: only **45%** of library set meet the KLC rules.
+**Overall status: only 45% of library set meet the KLC rules.**
