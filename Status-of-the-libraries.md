@@ -12,7 +12,7 @@ A user who wants to make any of the libraries compliant (complex edit) should su
 | `Altera.lib`               | Pending       | **In Progress** (Request #224) | Ricardo Crudo      |
 | `Allegro.lib`              | Pending       | **In Progress** (Request #222) | Bosvark            |
 | `analog_devices.lib`       | Yes           |                         |                    |
-| `analog_switches.lib`      |               |                         |                    |
+| `analog_switches.lib`      | Pending       | **In Progress** (Request #226) | Ricardo Crudo      |
 | `atmel.lib`                | No            | Bottom pad should be included. https://github.com/KiCad/kicad-library/issues/13 |                    |
 | `audio.lib`                |               |                         |                    |
 | `brooktre.lib`             |               |                         |                    |
