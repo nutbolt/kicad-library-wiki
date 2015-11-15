@@ -99,7 +99,8 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 **Changelog**
 
     Revision 1.0, November 15th 2015
-    1. Fixed some repetition. Tagged as 1.0 for the KiCad 4.0.0 release.
+    1. Fixed some repetition.
+    2. Tagged as 1.0 for the KiCad 4.0.0 release.
 
     Revision 0.11, April 6th 2015
     1. Updated rule 1.4 about dimensions. Units in millimeters are now implicit.
