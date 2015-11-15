@@ -1,6 +1,6 @@
 # Kicad Library Convention
 
-_Revision 1.0, April 6th 2015_  
+_Revision 1.0, November 15th 2015_  
 _Devised by **Carl Poirier**_  
 _With help from members of:_  
 _[kicad-lib-committers](https://launchpad.net/~kicad-lib-committers)_  
