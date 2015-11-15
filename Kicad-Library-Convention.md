@@ -1,6 +1,6 @@
 # Kicad Library Convention
 
-_Revision 0.11, April 6th 2015_  
+_Revision 1.0, April 6th 2015_  
 _Devised by **Carl Poirier**_  
 _With help from members of:_  
 _[kicad-lib-committers](https://launchpad.net/~kicad-lib-committers)_  
@@ -31,7 +31,6 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. Black-box components group pins logically, for example by function set, and ports in counter-clockwise position.
 1. Whenever possible, inputs are on the left and outputs are on the right.
 1. Field text uses a common size of 50mils.
-1. The reference field is prefilled with the reference designator of the symbol (IEEE 315-1975).
 1. The Value field is prefilled with the object name.
 
 ### Symbol Names
@@ -88,7 +87,6 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 ### Footprint properties
 
 1. Footprint name must match its filename. (.kicad_mod files)
-1. Text is placed on silkscreen and uses a height of 1mm.
 1. Doc property contains a full description of footprint.
 1. Keywords are separated by spaces.
 1. Value is filled with footprint name and is placed on the fabrication layer.
@@ -99,6 +97,8 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 ***
 
 **Changelog**
+    Revision 1.0, November 15th 2015
+    1. Fixed some repetition. Tagged as 1.0 for the KiCad 4.0.0 release.
 
     Revision 0.11, April 6th 2015
     1. Updated rule 1.4 about dimensions. Units in millimeters are now implicit.
