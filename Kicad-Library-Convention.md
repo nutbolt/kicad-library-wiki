@@ -97,6 +97,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 ***
 
 **Changelog**
+
     Revision 1.0, November 15th 2015
     1. Fixed some repetition. Tagged as 1.0 for the KiCad 4.0.0 release.
 
