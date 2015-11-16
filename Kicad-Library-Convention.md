@@ -32,6 +32,7 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. Whenever possible, inputs are on the left and outputs are on the right.
 1. Field text uses a common size of 50mils.
 1. The Value field is prefilled with the object name.
+1. Description and keywords properties contain the relevant information.
 
 ### Symbol Names
 
@@ -100,7 +101,8 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 
     Revision 1.0, November 15th 2015
     1. Fixed some repetition.
-    2. Tagged as 1.0 for the KiCad 4.0.0 release.
+    2. Added rule 3.8 from the checklib scripts.
+    3. Tagged as 1.0 for the KiCad 4.0.0 release.
 
     Revision 0.11, April 6th 2015
     1. Updated rule 1.4 about dimensions. Units in millimeters are now implicit.
