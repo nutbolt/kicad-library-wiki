@@ -57,10 +57,10 @@ _[kicad-developers](https://launchpad.net/~kicad-developers)_
 1. Pad 1 is on the left first, then at the top, except at the top for PLCC (IPC-7351).
 1. For through-hole components, footprint anchor is set on pad 1.
 1. For surface-mount devices, footprint anchor is placed in the middle with respect to device lead ends (IPC-7351).
-1. Silkscreen is not superposed to pads, its outline is completely visible after board assembly, uses 0.15mm line width and provides a reference mark for pin 1 (IPC-7351).
-1. Courtyard line has a width 0.05mm. This line is placed so that its clearance is measured from its center to the edges of pads and body, and its position is rounded on a grid of 0.05mm.
+1. Silkscreen is not on top of pads, its outline is completely visible after board assembly, uses 0.15mm line width and provides a reference mark for pin 1 (IPC-7351).
+1. Every footprint has a courtyard line designating clearance around the component's pads and body. The courtyard line has a width of 0.05mm and is placed on a 0.05mm grid.
 1. Courtyard clearance is 0.25mm except for components smaller than 0603 at 0.15mm, connectors, SMD canned capacitors and crystals at 0.5mm and BGA at 1.0mm. (IPC-7251, IPC-7351B)
-1. Cannot be duplicated to match a different pin ordering. This is to be handled in the symbol libraries.
+1. Should not be a duplicate of another footprint to match a different pin ordering. This is to be handled in the symbol libraries.
 1. Value and reference have a height of 1mm.
 
 ### Names for footprints of Surface-Mount Devices (SMD)
